@@ -1,0 +1,9 @@
+{
+  "name": "我的生活 SOP",
+  "short_name": "生活SOP",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f8f6",
+  "theme_color": "#4d9082",
+  "description": "个人生活流程、每日打卡与习惯管理"
+}
